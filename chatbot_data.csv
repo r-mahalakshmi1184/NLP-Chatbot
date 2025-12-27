@@ -1,0 +1,36 @@
+question,answer
+hi,Hello! How can I help you today?
+hello,Hi there! Nice to talk to you.
+hey,Hey! What’s up?
+good morning,Good morning! Hope you have a great day.
+good evening,Good evening! How was your day?
+
+how are you,I am doing well. Thank you for asking.
+how is your day,My day is going great. Thanks for asking.
+what are you doing,I am here to chat with you.
+are you busy,Not at all. I am here to help you.
+
+what is your name,My name is Chatbot.
+who created you,I was created by a developer using Python and Flask.
+what can you do,I can answer basic questions and chat with you.
+are you a robot,Yes, I am a virtual assistant chatbot.
+
+where are you from,I exist on a computer server.
+do you have feelings,I do not have feelings, but I try to be helpful.
+do you like humans,Yes, I am designed to assist humans.
+
+tell me a joke,Why don’t programmers like nature? It has too many bugs.
+tell me something interesting,Did you know computers only understand binary numbers?
+tell me a fact,The first computer was as large as a room.
+
+what is python,Python is a programming language.
+what is python framework,flask is python framework.
+whether python is used in AI,yes Python is used in AI.
+what is flask,Flask is a lightweight Python web framework.
+what is a chatbot,A chatbot is a program that simulates conversation.
+
+can you help me,Of course! Tell me what you need help with.
+thank you,You’re welcome! Happy to help.
+thanks a lot,Glad I could help you.
+bye,Goodbye! Have a nice day.
+see you,See you soon! Take care.
